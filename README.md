@@ -12,7 +12,7 @@ To run the notebook, you will need the following libraries:
 [PyViz Installation Guide](Starter_Code/PyVizInstallationGuide.md)
 
 ## Files
-* [`san_francisco_housing.ipynb`]((Starter_Code/san_francisco_housing.ipynb): Jupyter Notebook containing the analysis code.
+* [`san_francisco_housing.ipynb`](Starter_Code/san_francisco_housing.ipynb): Jupyter Notebook containing the analysis code.
 
 * [`housing_per_year.csv`](Starter_Code/Resources/housing_per_year.csv)
 
