@@ -12,13 +12,13 @@ To run the notebook, you will need the following libraries:
 [PyViz Installation Guide](Starter_Code/PyVizInstallationGuide.md)
 
 ## Files
-* san_francisco_housing.ipynb: Jupyter Notebook containing the analysis code.
+* [`san_francisco_housing.ipynb`](./san_francisco_housing.ipynb): Jupyter Notebook containing the analysis code.
 
-* [`housing_per_year` CSV File](Starter_Code/Resources/housing_per_year.csv)
+* [`housing_per_year.csv`](Starter_Code/Resources/housing_per_year.csv)
 
-* [`neighborhoods_coordinates` CSV File](Starter_Code/Resources/neighborhoods_coordinates.csv)
+* [`neighborhoods_coordinates.csv`](Starter_Code/Resources/neighborhoods_coordinates.csv)
 
-* [`sfo_neighborhoods_census_data` CSV File](Starter_Code/Resources/sfo_neighborhoods_census_data.csv)
+* [`sfo_neighborhoods_census_data.csv`](Starter_Code/Resources/sfo_neighborhoods_census_data.csv)
 
 ## Summary
 The analysis includes visualizations of housing trends and an interactive map that shows recommended neighborhoods for investment. These insights can help individuals or companies make informed decisions about investing in San Francisco's real estate market.
